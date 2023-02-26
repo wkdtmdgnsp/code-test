@@ -3,7 +3,7 @@ package test1;
 /**
  * 캐릭터의 좌표
  */
-public class test3 {
+public class Test3 {
 
     public int[] solution(String[] keyinput, int[] board) {
         User user = new User(board);

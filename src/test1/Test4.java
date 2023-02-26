@@ -5,7 +5,7 @@ import java.util.HashMap;
 /**
  * [카카오 인턴] 키패드 누르기
  */
-public class test4 {
+public class Test4 {
 
     public String solution(int[] numbers, String hand) {
         StringBuilder sb = new StringBuilder();

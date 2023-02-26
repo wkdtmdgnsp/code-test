@@ -8,7 +8,7 @@ import java.util.List;
  * 2019 KAKAO BLIND RECRUITMENT - 실패율
  * https://school.programmers.co.kr/learn/courses/30/lessons/42889
  */
-public class test1 {
+public class Test1 {
     public int[] solution(int N, int[] stages) {
         List<Stage> answer = new ArrayList<>();
 

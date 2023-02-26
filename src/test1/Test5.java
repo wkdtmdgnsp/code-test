@@ -7,7 +7,7 @@ import java.util.List;
  * Summer/Winter Coding(~2018)
  * 소수 만들기
  */
-public class test5 {
+public class Test5 {
     /**
      * 배열의 3개의 숫자의 합 구하기
      * 소수인지 판별

@@ -6,7 +6,7 @@ import java.util.*;
  * 2021 Dev-Matching: 웹 백엔드 개발자(상반기)
  * 로또의 최고 순위와 최저 순위
  */
-public class test2 {
+public class Test2 {
 
     public int[] solution(int[] lottos, int[] win_nums) {
         Lotto user = new Lotto(lottos);
