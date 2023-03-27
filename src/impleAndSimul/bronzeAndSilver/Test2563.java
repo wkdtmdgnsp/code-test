@@ -1,4 +1,4 @@
-package doit;
+package impleAndSimul.bronzeAndSilver;
 
 import java.util.Scanner;
 

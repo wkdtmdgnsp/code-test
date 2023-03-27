@@ -1,4 +1,4 @@
-package doit;
+package impleAndSimul.bronzeAndSilver;
 
 import java.util.ArrayList;
 import java.util.Collections;
